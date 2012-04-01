@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rocket()
+comment1.target=void\ act()
+comment2.target=void\ checkKeys()
+comment2.text=\nCheck\ whether\ there\ are\ any\ key\ pressed\ and\ react\ to\ them.\n\n
+comment3.target=void\ fireBullet()
+comment3.text=\nFire\ a\ bullet\ if\ the\ gun\ is\ ready.\n\n
+comment4.target=void\ moveRight()
+comment5.target=void\ moveLeft()
+numComments=6

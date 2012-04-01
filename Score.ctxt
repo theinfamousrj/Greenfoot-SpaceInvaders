@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=prefix
+comment0.target=Score(String)
+comment1.params=valueToAdd
+comment1.target=void\ add(int)
+comment2.target=void\ updateImage()
+numComments=3

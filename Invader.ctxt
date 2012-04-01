@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Invader()
+comment1.target=void\ act()
+comment2.target=void\ move()
+comment3.target=void\ hit()
+comment4.params=movingRight
+comment4.target=void\ moveLeftOrRight(boolean)
+comment5.target=void\ moveDown()
+comment6.target=boolean\ atWorldEdge()
+numComments=7
